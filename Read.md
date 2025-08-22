@@ -1,0 +1,1 @@
+This project implements a miniature smart home automation system using Raspberry Pi Pico W. The system allows users to remotely control electrical components via WLAN, offering an affordable and scalable solution for modern home automation.
